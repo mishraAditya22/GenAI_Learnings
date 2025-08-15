@@ -1,0 +1,12 @@
+pydantic>=2.0;
+openai>=1.0;
+python-dotenv;
+langchain;
+langchain-community;
+qdrant-client;
+pypdf;
+beautifulsoup4;
+tiktoken;
+langchain-openai;
+python-dotenv;
+gradio
